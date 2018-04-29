@@ -28,3 +28,7 @@ $ make apply
 ```
 $ make destroy
 ```
+
+## reference
+
+https://github.com/takanamito/terraform-templates
