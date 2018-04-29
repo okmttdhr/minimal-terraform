@@ -1,6 +1,6 @@
 name    = "main"
 region  = "ap-northeast-1"
-profile = "mmm-test-environment"
+profile = "your-aws-profile"
 
 az          = "ap-northeast-1a"
 vpc_cidr    = "10.0.0.0/16"
